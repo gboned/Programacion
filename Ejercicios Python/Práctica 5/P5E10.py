@@ -1,4 +1,4 @@
-# Garbiñe Boned -P5E6-
+# Garbiñe Boned -P5E10-
 # Programa que pida altura del triangulo y lo dibuje con asteriscos.
 alto = int(input('Introduce la altura del triángulo: '))
 dibujo = '*'
